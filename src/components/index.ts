@@ -1,1 +1,1 @@
-export { default as Greeting } from './greet';
+export { default as Greet } from './greet';
